@@ -1,8 +1,8 @@
-package main
+package maps
 
 import "fmt"
 
-func new() {
+func maps() {
 	elements := map[string]map[string]string{
 		"H": map[string]string{
 			"name":  "Hydrogen",
